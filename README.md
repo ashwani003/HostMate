@@ -141,9 +141,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact 📧
 
-- **Developer:** Anushree Gupta  
-- **GitHub:** [@Anugupta5102](https://github.com/Anugupta5102)  
-- **Email:** anugupta5102@gmail.com  
+- **Developer:** Ashwani Mishra
+- **GitHub:** [@Ashwani003](https://github.com/ashwani003)  
+- **Email:** ashwanimishra1617@gmail.com  
 
 ---
 
